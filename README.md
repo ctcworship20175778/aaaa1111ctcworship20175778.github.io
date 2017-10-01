@@ -4,11 +4,15 @@
 
 3 Therefore I want you to know that no one who is speaking by the Spirit of God says, “Jesus be cursed,” and no one can say, **“Jesus is Lord,”** except by the Holy Spirit.
 
-# Friday Night Followship  
+# Followship   
 
 ## 1. Say Hello
 
 ## 2. Worship
+
+## A.
+### Everything Is AWESOME !!
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 ## 3. Bible reading
 
@@ -16,8 +20,7 @@
 
 ## 5. Food
 
-### Everything Is AWESOME !!
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
 
 
 
