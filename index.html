@@ -1,0 +1,90 @@
+
+<!DOCTYPE html>
+
+<html class="cr-html" style="height:100%;">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="msapplication-config" content="browserconfig.xml" />
+    <meta name="application-name" content="Directory" />
+
+    <title>Instant Church Directory</title>
+
+    <link href="/Content/css?v=EmwSRvcbURt3-syQi9K7GhHoLe3YdGkgnWweO-z9IBI1" rel="stylesheet"/>
+
+
+    
+
+</head>
+<body class="cr-body-type-b cr-members-landing-body" style="height:100%;">
+
+    <div class="cr-wrapper-fluid-width" style="height:100%;">
+        <div class="cr-members-landing-logo-container">
+            <img src="/Content/images/logo.png" />
+        </div>
+
+        
+
+
+
+<form>
+    <div class="cr-members-landing-sign-in-block cr-information-block-type-f">
+        <p class="cr-heading-type-a">Church Member Sign In</p>
+        <p class="cr-paragraph-type-a" style="margin-top:10px;">Sign in below to connect to your church directory.</p>
+        <div class="cr-icd-members-sign-confirm-message" >
+            
+        </div>
+        <div style="margin-top:20px;">
+            <input type="text" class="cr-textbox-large-type-a cr-icd-members-sign-in-email" style="width: 90%;" placeholder="email address" />
+        </div>
+        <div>
+            <input type="password" class="cr-textbox-large-type-a cr-icd-members-sign-in-password" style="width: 90%;" placeholder="password" />
+        </div>
+        <div style="margin-bottom: 10px;">
+            <a href="/resetpassword" class="cr-hyperlink-type-a">Forgot password?</a>
+        </div>
+        <div>
+
+            <button type="submit" class="cr-button-type-a cr-icd-members-sign-in-button">Sign In</button>
+
+        </div>
+        <p class="cr-paragraph-type-a" style="margin-top:20px;">First time signing in? <a href="/signup" class="cr-hyperlink-type-a">Create a login now</a>.</p>
+        <p class="cr-paragraph-type-a" style="margin-top:10px;">Are you an admin? <a href="//www.instantchurchdirectory.com" class="cr-hyperlink-type-a">Click here to sign in</a>.</p>
+        <p class="cr-icd-members-sign-in-fail-message cr-paragraph-type-b">&nbsp;</p>
+    </div>
+
+    <input type="hidden" id="cr-icd-members-sign-up-confirmation-code" />
+
+</form>
+
+
+    </div>
+
+    <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script>(window.jquery)||document.write('<script src="/jquery"><\/script>');</script>
+
+    <script src="/Scripts/js?v=zz9qpQ7VQUWlNzLWM2e2oMD_b6HbTav7_i8_sBPcEf41"></script>
+
+    <script src="/Scripts/signin?v=olf-rf0skFWL47MiAs8RrdMf74UxMoOPJsucv1RUkHI1"></script>
+
+    
+    <script>
+
+        $(function () {
+
+            icdApi.init({ host: '//api.instantchurchdirectory.com' });
+
+            icdMembers.init();
+
+            icdMembersSignIn.init();
+
+        });
+
+    </script>
+
+</body>
+</html>
+
+
+
+
+
