@@ -1,4 +1,4 @@
-# Jesus is Lord
+# **Jesus is Lord**
 
 1 Corinthians 12:3 (NIV)
 
