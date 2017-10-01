@@ -1,12 +1,10 @@
 # Jesus is Lord
 
-1 Corinthians 12:3 (NIV)
-
-3 Therefore I want you to know that no one who is speaking by the Spirit of God says, “Jesus be cursed,” and no one can say, “Jesus is Lord,” except by the Holy Spirit.
+***Therefore I want you to know that no one who is speaking by the Spirit of God says, “Jesus be cursed,” and no one can say, “Jesus is Lord,” except by the Holy Spirit. ( 1 Corinthians 12:3, NIV)***
 
 
 
-#***Followship***   
+#Followship  
 
 ###1. Say Hello
 
