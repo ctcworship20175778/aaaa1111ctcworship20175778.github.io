@@ -18,7 +18,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ![](https://upload.wikimedia.org/…/comm…/4/49/Elon_Musk_2015.jpg){:height="15%" width="15%"} 
 ![](http://www.car-brand-names.com/…/2015/05/Tesla-Motors-logo-…){:height="25%" width="25%"} 
 
-![](./logo2.png){:height="10%" width="10%"}
 # 1.0. The story of Musk
 Musk was born on June 28, 1971, in Pretoria, Transvaal, South Africa,the son of Maye Musk (née Haldeman), a model and dietician from Regina, Saskatchewan, Canada;and Errol Musk, a South African electromechanical engineer, pilot and sailor. During his childhood he was an avid reader.At age 10, he developed an interest in computing with the Commodore VIC-20.He taught himself computer programming at the age of 12, sold the code for a BASIC-based video game he created called Blastar, to a magazine called PC and Office Technology, for approximately $500. A web version of the game is available online.
 ## PLAY THE PC GAME ELON MUSK WROTE AS A PRETEEN
