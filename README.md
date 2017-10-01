@@ -1,18 +1,8 @@
-![](https://upload.wikimedia.org/…/comm…/4/49/Elon_Musk_2015.jpg){:height="15%" width="15%"} 
-![](http://www.car-brand-names.com/…/2015/05/Tesla-Motors-logo-…){:height="25%" width="25%"} 
-
 # ctcworship20175778.github.io
 24 hours daily, worship: Jesus is the Lord.
 
 ### How to make youself to be a good software engineer ? 
-![](./logo2.png){:height="10%" width="10%"}
-# 1.0. The story of Musk
-Musk was born on June 28, 1971, in Pretoria, Transvaal, South Africa,the son of Maye Musk (née Haldeman), a model and dietician from Regina, Saskatchewan, Canada;and Errol Musk, a South African electromechanical engineer, pilot and sailor. During his childhood he was an avid reader.At age 10, he developed an interest in computing with the Commodore VIC-20.He taught himself computer programming at the age of 12, sold the code for a BASIC-based video game he created called Blastar, to a magazine called PC and Office Technology, for approximately $500. A web version of the game is available online.
-## PLAY THE PC GAME ELON MUSK WROTE AS A PRETEEN
-[![Blastar for HTML5](http://nextwavemobileapps.com/…/Elon-Musk-1984-Blastar-Game…)](https://blastar-1984.appspot.com/)
-# 1.1. The Way of the Program
-The single most important skill for a computer scientist is **problem solving**. Problem solving means the ability to formulate problems, think creatively about solutions, and express a solution clearly and accurately. As it turns out, the process of learning to program is an excellent opportunity to practice problem solving skills. That’s why this chapter is called, The Way of the Program.
-On one level, you will be learning to program, a useful skill by itself. On another level, you will use programming as a means to an end. As we go along, that end will become clearer.
+
 # 1.2 The **Markown** program
 ### Date 2017-9-30
 ***We started the trip for learning software programming from the easy web program called "Markdown"**.
@@ -22,6 +12,22 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ![](./Solid_color_You_Tube_logo.png){:height="20%" width="20%"}
 ### Everything Is AWESOME !!
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
+# 2017-10-1
+
+![](https://upload.wikimedia.org/…/comm…/4/49/Elon_Musk_2015.jpg){:height="15%" width="15%"} 
+![](http://www.car-brand-names.com/…/2015/05/Tesla-Motors-logo-…){:height="25%" width="25%"} 
+
+![](./logo2.png){:height="10%" width="10%"}
+# 1.0. The story of Musk
+Musk was born on June 28, 1971, in Pretoria, Transvaal, South Africa,the son of Maye Musk (née Haldeman), a model and dietician from Regina, Saskatchewan, Canada;and Errol Musk, a South African electromechanical engineer, pilot and sailor. During his childhood he was an avid reader.At age 10, he developed an interest in computing with the Commodore VIC-20.He taught himself computer programming at the age of 12, sold the code for a BASIC-based video game he created called Blastar, to a magazine called PC and Office Technology, for approximately $500. A web version of the game is available online.
+## PLAY THE PC GAME ELON MUSK WROTE AS A PRETEEN
+[![Blastar for HTML5](http://nextwavemobileapps.com/…/Elon-Musk-1984-Blastar-Game…)](https://blastar-1984.appspot.com/)
+# 1.1. The Way of the Program
+The single most important skill for a computer scientist is **problem solving**. Problem solving means the ability to formulate problems, think creatively about solutions, and express a solution clearly and accurately. As it turns out, the process of learning to program is an excellent opportunity to practice problem solving skills. That’s why this chapter is called, The Way of the Program.
+On one level, you will be learning to program, a useful skill by itself. On another level, you will use programming as a means to an end. As we go along, that end will become clearer.
+
+
 ### Your w3schools and Basic HTML youtube
 [![w3schools and Basic HTML](https://www.thecrazyprogrammer.com/…/W3Schools-Offline-Vers…)](https://www.youtube.com/watch?v=qjjLGq29GO0 "w3schools and Basic HTML")
 You can use the [editor on GitHub](https://github.com/…/rd02Peter.github…/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
