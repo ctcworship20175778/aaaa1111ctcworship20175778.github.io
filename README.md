@@ -103,11 +103,4 @@ Ordered
 1. Item 3a
 1. Item 3b
 f.
-Images
-![GitHub Logo](/logo.png)
-![GitHub Logo2](/logo2.png)
-Format: ![Alt Text](url)
-### Jekyll Themes
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rd02Peter/rd02Peter.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-### Support or Contact
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
