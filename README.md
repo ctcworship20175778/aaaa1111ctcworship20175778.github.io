@@ -1,15 +1,38 @@
-# ctcworship20175778.github.io
-24 hours daily, worship: Jesus is the Lord.
+# Jesus is Lord
 
-### How to make youself to be a good software engineer ? 
+1 Corinthians 12:3 ***New International Version (NIV)***
 
-# 1.2 The **Markown** program
+3 Therefore I want you to know that no one who is speaking by the Spirit of God says, “Jesus be cursed,” and no one can say, **“Jesus is Lord,”** except by the Holy Spirit.
+
+# Friday Night Followship  
+
+## 1. Say Hello
+
+## 2. Worship
+
+## 3. Bible reading
+
+## 4. Pray
+
+## 5. Food
+
+### Everything Is AWESOME !!
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
+
+
+
+
+# Note The **Markown** program
+
 ### Date 2017-9-30
 ***We started the trip for learning software programming from the easy web program called "Markdown"**.
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 # Welcome Apple & Adam ^_^
 [![Everything Is AWESOME](https://cdn2.ettoday.net/images/2704/d2704022.jpg)](https://www.youtube.com/watch?v=DHVqsuL6FUE&t=576 "Apple & Adam")
 ![](./Solid_color_You_Tube_logo.png){:height="20%" width="20%"}
+
 ### Everything Is AWESOME !!
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
