@@ -4,7 +4,9 @@
 
 3 Therefore I want you to know that no one who is speaking by the Spirit of God says, “Jesus be cursed,” and no one can say, “Jesus is Lord,” except by the Holy Spirit.
 
-## Followship   
+
+
+# Followship   
 
 ### 1. Say Hello
 
