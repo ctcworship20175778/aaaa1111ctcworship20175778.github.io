@@ -37,7 +37,9 @@ Topic：Celebrating the feast of tabernacles： the moment of meeting God
 3, Dwelling in God's presence
 三, 住在 神的同在
 
-詩歌 :  來親近我//祝瑞蓮琴與爐敬拜專輯(12) [![(來親近我)]](https://www.youtube.com/watch?v=4uous5KYU-Q)
+詩歌 :  來親近我//祝瑞蓮琴與爐敬拜專輯(12) [![來親近我](https://i.ytimg.com/vi/4uous5KYU-Q/hqdefault.jpg)](https://www.youtube.com/watch?v=4uous5KYU-Q)
+
+[![生命河靈糧堂](https://i.ytimg.com/vi/iLEuxeAE_nM/hqdefault.jpg)](https://www.youtube.com/watch?v=aPmMAMkckog)
 
 4, Welcoming the kingdom of God
 四, 迎接 神國的降臨
