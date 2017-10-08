@@ -21,7 +21,7 @@ Topic：Celebrating the feast of tabernacles： the moment of meeting God
 
 (1) 猶太人
 
-(2) 全時間
+(2) 全世界
 
 (3) 基督徒
 
