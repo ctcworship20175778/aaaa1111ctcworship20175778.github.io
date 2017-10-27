@@ -3,9 +3,9 @@
 ***Therefore I want you to know that no one who is speaking by the Spirit of God says, “Jesus be cursed,” and no one can say, “Jesus is Lord,” except by the Holy Spirit. ( 1 Corinthians 12:3, NIV)***
 
 # Friday night fellowship
--2017.10.22(五) pm 20:00 - 22:00 小組話語
+** 2017.10.22(五) pm 20:00 - 22:00 小組話語
 
-本週讀經進度
+-本週讀經進度
 10/22 約翰一書05章04-13節
 10/23 約翰一書05章14-21節
 10/24 約翰二書01-13節
