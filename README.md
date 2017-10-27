@@ -1,9 +1,13 @@
-# Jesus is Lord
+# 耶穌是主　Jesus is Lord
+
+哥林多前書 第十二章
+
+3 所以我告訴你們，被神的靈感動的，沒有說耶穌是可咒詛的；若不是被聖靈感動的，也沒有能說耶穌是主的。
 
 ***Therefore I want you to know that no one who is speaking by the Spirit of God says, “Jesus be cursed,” and no one can say, “Jesus is Lord,” except by the Holy Spirit. ( 1 Corinthians 12:3, NIV)***
 
-# Friday night fellowship
-** 2017.10.22(五) pm 20:00 - 22:00 小組話語
+# 每周五小組聚會　Friday night fellowship
+# 2017.10.22(五) pm 20:00 - 22:00 小組話語
 
 ## 本週讀經進度
 10/22 約翰一書05章04-13節
@@ -78,9 +82,9 @@
 
 ### 禱告及回應：
 
-*** 1. 主耶穌，我們需要祢！願祢成為我們的盼望、喜樂與平安，讓我們單單屬於祢，讓我們的心安穩在祢裡面。阿們！
+# 1. 主耶穌，我們需要祢！願祢成為我們的盼望、喜樂與平安，讓我們單單屬於祢，讓我們的心安穩在祢裡面。阿們！
 
-*** 2.【教會唯一的根基】 詩集：頌主聖詩，291
+# 2.【教會唯一的根基】 詩集：頌主聖詩，291
 
 ## 教會唯一的根基，就是耶穌基督，以水與道所造成，乃主新的創作；救主親身自天降，願為教會新郎，甘心捨命流寶血，為使教會繁昌。
 
