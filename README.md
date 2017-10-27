@@ -1,4 +1,4 @@
-# 耶穌是主　(Jesus is Lord)
+# 耶穌是主( Jesus is Lord )
 
 哥林多前書 第十二章
 
