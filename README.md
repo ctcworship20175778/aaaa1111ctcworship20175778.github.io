@@ -7,6 +7,16 @@
 ***Therefore I want you to know that no one who is speaking by the Spirit of God says, “Jesus be cursed,” and no one can say, “Jesus is Lord,” except by the Holy Spirit. ( 1 Corinthians 12:3, NIV)***
 
 # 每周五小組聚會　Friday night fellowship
+
+### 門徒稱為「基督徒」是從安提阿起首。(使徒行傳 11:26) 
+
+使徒行傳 11:26
+
+找著了，就帶他到安提阿去。他們足有一年的工夫和教會一同聚集，教訓了許多人。
+
+門徒稱為「基督徒」是從安提阿起首。
+
+
 # 2017.10.22(五) pm 20:00 - 22:00 小組話語
 
 ## 本週讀經進度
