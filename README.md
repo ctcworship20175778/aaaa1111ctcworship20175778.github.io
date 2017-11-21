@@ -7,16 +7,15 @@
 --- 2017.11.24(五) pm 20:00 - 22:00 小組敬拜
 
 
-### (1) 主的喜樂是我力量
-主的喜樂是我力量
-<a href="https://www.youtube.com/watch?v=AcS52ml9hjU">主的喜樂是我力量</a> https://www.youtube.com/watch?v=AcS52ml9hjU
+敬拜(1) 
 
-### (2) 主的喜樂是我力量2
-<a href="https://www.youtube.com/watch?v=jgspW0pOSng">主的喜樂是我力量2</a> https://www.youtube.com/watch?v=jgspW0pOSng
+<a href="https://www.youtube.com/watch?v=AcS52ml9hjU">主的喜樂是我力量</a> 
 
-### (3) 何等恩典 
-<a href="https://www.youtube.com/watch?v=-ZfJUkExWIg">何等恩典</a> https://www.youtube.com/watch?v=-ZfJUkExWIg
+敬拜(2) 
+<a href="https://www.youtube.com/watch?v=jgspW0pOSng">主的喜樂是我力量2</a> 
 
+敬拜(3) 
+<a href="https://www.youtube.com/watch?v=-ZfJUkExWIg">何等恩典</a>
 
 --- 2017.11.10(五) pm 20:00 - 22:00 小組話語
 
