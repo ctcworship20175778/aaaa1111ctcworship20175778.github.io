@@ -9,13 +9,13 @@
 
 ### (1) 主的喜樂是我力量
 主的喜樂是我力量
-[![主的喜樂是我力量](https://www.youtube.com/watch?v=AcS52ml9hjU)
+https://www.youtube.com/watch?v=AcS52ml9hjU
 
 ### (2) 主的喜樂是我力量2
-[![主的喜樂是我力量2](https://www.youtube.com/watch?v=jgspW0pOSng)
+https://www.youtube.com/watch?v=jgspW0pOSng
 
-### (3) 何等恩典 Soar on Wings Like an Eagle 
-[![生命河靈糧堂](https://www.youtube.com/watch?v=-ZfJUkExWIg)
+### (3) 何等恩典 
+https://www.youtube.com/watch?v=-ZfJUkExWIg
 
 
 --- 2017.11.10(五) pm 20:00 - 22:00 小組話語
